@@ -1,5 +1,5 @@
 # Crypto Tracker
-A comprehensive cryptocurrency price tracking application built with Next.js and documented with Docusaurus.
+A comprehensive cryptocurrency price tracking application built with Next.js.
 
 # Project Structure
 This repository contains two main components:<br>
